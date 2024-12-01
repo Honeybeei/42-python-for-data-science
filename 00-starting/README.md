@@ -1,6 +1,6 @@
-# 🚀 Training Piscine Python for Data Science 0
+# 🚀 00-starting
 
-- [🚀 Training Piscine Python for Data Science 0](#-training-piscine-python-for-data-science-0)
+- [🚀 00-starting](#-00-starting)
   - [👶 Exercise 00: First Python Script](#-exercise-00-first-python-script)
   - [📦 Exercise 01: First Use of a Package](#-exercise-01-first-use-of-a-package)
   - [🛠️ Exercise 02: First Python Function](#️-exercise-02-first-python-function)
