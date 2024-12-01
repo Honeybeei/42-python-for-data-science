@@ -1,13 +1,14 @@
 [tool.poetry]
-name = "00-starting"
+name = "ft-package"
 version = "0.1.0"
-description = ""
-authors = ["Honeybeei"]
+description = "My first python package"
+homepage = "https://github.com/Honeybeei"
+authors = ["seoyoo"]
+license = "LICENSE"
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.10.0"
-tqdm = "^4.67.1"
+python = "^3.10"
 
 
 [build-system]
