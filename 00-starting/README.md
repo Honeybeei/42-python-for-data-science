@@ -1,10 +1,8 @@
-# 🚀 Training Piscine Python for Data Science 0
+# 🚀 00-starting
 
-- [🚀 Training Piscine Python for Data Science 0](#-training-piscine-python-for-data-science-0)
+- [🚀 00-starting](#-00-starting)
   - [👶 Exercise 00: First Python Script](#-exercise-00-first-python-script)
-    - [🔑 Keywords](#-keywords)
   - [📦 Exercise 01: First Use of a Package](#-exercise-01-first-use-of-a-package)
-    - [🔑 Keywords](#-keywords-1)
   - [🛠️ Exercise 02: First Python Function](#️-exercise-02-first-python-function)
   - [❌ Exercise 03: NULL Not Found](#-exercise-03-null-not-found)
   - [🔢 Exercise 04: The Even and the Odd](#-exercise-04-the-even-and-the-odd)
@@ -16,15 +14,11 @@
 
 ## 👶 Exercise 00: First Python Script
 
-### 🔑 Keywords
-
 - `list`, `tuple`, `set`, `dict`
 - mutable vs immutable
 - ordered vs unordered collection
 
 ## 📦 Exercise 01: First Use of a Package
-
-### 🔑 Keywords
 
 - `import`, `from`
 - `datetime` package
